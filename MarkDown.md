@@ -1,4 +1,7 @@
--- adding heading
+
+<!-- this is a comment -->
+
+# Headers
 
 # header1
 ## header2
@@ -8,7 +11,7 @@
 ###### header6
 
 
--- adding formatted text
+# Adding formatted text
 
 this is normal
 
@@ -21,22 +24,22 @@ this is **multi words bold**
 this is ~~strike through~~
 
 
--- adding links
+# Adding links
 
 this is a [link](google.com)
 
--- adding images
+# Adding images
 
 this is an ![image](https://robohash.org/shammo)
 
 
--- adding unordered lists
+# Adding unordered lists
 
 - item1
 - item2
 - item3
 
--- adding ordered lists
+# Adding ordered lists
 
 1. item1
 1. item2
@@ -47,8 +50,57 @@ this is an ![image](https://robohash.org/shammo)
   - item1.2
   - item1.3
 
--- adding checklist
+# Aadding checklist
 
 - [ ] item1
 - [x] item2
-- [ ] item3 
+- [ ] item3
+
+# Adding tables
+
+| heading1 | heading2 | heading3 |
+| :--- | :---: | ---: |
+| r1c1 | **r1c2** | r1c3 |
+
+
+# Adding some code
+
+## Inline code
+`print("hello world)`
+
+```c++
+#include<bist/stdc++.h>
+using namespace std;
+int main()
+{
+  cout<<"hello gieHub"<<endl;
+}
+```
+
+## Show differences
+
+```diff
+#include<bist/stdc++.h>
+using namespace std;
+int main()
+{
+- cout<<"hello gieHub"<<endl;
++ cout<<"hello GitHub"<<endl;
+}
+```
+
+# Adding quote
+
+> what is your aim ?
+
+to be a positive force to the society
+
+
+# Collapsable content
+
+<details>
+  <summary> click for more </summary>
+  here is the descriptive thing
+  that i want to share with you
+</details>  
+
