@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kazi-wasif-amin-shammo-3a0307197/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shammya)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourhandle)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@VersatileAnthem)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaziwasifaminshammo@gmail.com)
 
 </div>
@@ -26,8 +26,8 @@ I'm passionate about **bridging the gap between cutting-edge AI research and rea
 |        💼 **Industry Impact**         |       🎓 **Academic Impact**        |    👥 **Community Impact**     |
 | :-----------------------------------: | :---------------------------------: | :----------------------------: |
 | **30%** reduction in support tickets  | **Research** with Auburn University |   **2000+** students trained   |
-|    **25%** boost in online orders     |     **LLM Contracts** research      |  **16K+** YouTube subscribers  |
-| **5 AI agents** shipped to production |    **Graph Theory** publications    | **6 countries** workshop reach |
+|    **15%** boost in online orders     |     **LLM Contracts** research      |  **16K+** YouTube subscribers  |
+| **5 AI agents** shipped to production |    **Graph Theory** Thesis    | **6 countries** workshop reach |
 
 </div>
 
@@ -55,7 +55,7 @@ _Apr 2023 - Present_
 
 ### 🧠 **AI Team Lead** | Interactive Cares, Dhaka
 
-_Nov 2023 - Present (Part-time)_
+_Contractual_
 
 - 📈 **AI Chatbot**: Course recommendation system improving satisfaction by 20%
 - ⚡ **CV Sorter**: Advanced algorithms saving 40% HR screening time
@@ -153,22 +153,22 @@ _May 2022 - May 2023_
 
 <!-- Streak Stats -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shammya&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shammya&theme=radical&hide_border=true&cache_seconds=1800)
 
 <!-- Detailed Stats -->
 
-![Detailed Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shammya&theme=radical&v=1)
+![Detailed Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shammya&theme=radical&cache_seconds=1800)
 
 </div>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shammya&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show_owner=true&v=1)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shammya&layout=compact&theme=radical&count_private=true&include_all_commits=true&v=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shammya&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show_owner=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shammya&layout=compact&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800)
 
 <!-- Alternative: More detailed contribution stats -->
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shammya&theme=react-dark&hide_border=true&point=FFFFFF&line=00ADB5&color=00ADB5&v=1)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shammya&theme=react-dark&hide_border=true&point=FFFFFF&line=00ADB5&color=00ADB5&cache_seconds=1800)
 
 </div>
 
