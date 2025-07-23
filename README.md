@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=AI%20Engineer%20%26%20Researcher&fontSize=30&fontColor=ffffff)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00ADB5&center=true&vCenter=true&width=940&lines=AI+Engineer+%26+Research+Collaborator;Building+Production+AI+%2B+Academic+Research;Bridging+Industry+and+Scientific+Discovery" alt="Typing SVG" />
+</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kazi-wasif-amin-shammo-3a0307197/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shammya)
